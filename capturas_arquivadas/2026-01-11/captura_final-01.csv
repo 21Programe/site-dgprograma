@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:0B:BB:0C:0A:60, 2026-01-07 21:47:58, 2026-01-07 22:14:37, 11, 130, WPA2, CCMP, PSK, -41,    13655,     7510,   0.  0.  0.  0,  11, CKNCJAMAICA, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+EC:A1:38:1C:D1:59, 2026-01-07 21:47:58, 2026-01-07 22:14:37, -74,     2493, 84:0B:BB:0C:0A:60,
+36:68:93:6C:89:78, 2026-01-07 21:47:59, 2026-01-07 22:14:36, -60,      849, 84:0B:BB:0C:0A:60,
+44:E6:4A:A3:75:EC, 2026-01-07 21:48:00, 2026-01-07 22:14:36, -34,     2100, 84:0B:BB:0C:0A:60,
+

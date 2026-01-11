@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+74:FE:CE:52:78:D8, 2026-01-08 18:35:59, 2026-01-08 18:39:22,  2, 360, WPA2, CCMP, PSK, -65,     1124,       35,   0.  0.  0.  0,   9, Palmeiras, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
